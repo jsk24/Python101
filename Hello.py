@@ -8,3 +8,5 @@ Robert
 Hello Robert
 >>> print ('Hello Somkit')
 Hello Somkit
+>>> 
+>>> friend = ['Luna', 'Somma','Gegie','MooMoo']
